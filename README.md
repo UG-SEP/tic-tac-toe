@@ -15,6 +15,6 @@
 <img src="screenshots/Screenshot 2021-02-22 225152.jpg" alt="Image" height="300">
 </p>
 <h1><p align="center">💖💖🔥Show your love By Staring My Repos💖💖🔥</p></h1></br>
-[Connect With Me👋👋](https://www.linkedin.com/in/ujjwal-gupta-ug-233543202/)</br>
-[Video Link⌚⌚](https://www.youtube.com/watch?v=27d8jxj-aNw)</br>
-[Dowload CodeBlocks💻💻](https://www.codeblocks.org/downloads/binaries/)
+<a href="https://www.linkedin.com/in/ujjwal-gupta-ug-233543202/">Connect With me🤝🤝</a></br>
+<a href="https://www.youtube.com/watch?v=27d8jxj-aNw">Video Link⌚⌚</a></br>
+<a href="https://www.codeblocks.org/downloads/binaries/">Dowload CodeBlocks💻💻</a>
