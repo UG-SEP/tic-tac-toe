@@ -15,7 +15,7 @@
 <img src="screenshots/Screenshot 2021-02-22 225152.jpg" alt="Image">
 </p>
 <h1><p align="center">💖💖🔥Show your love By Staring My Repos💖💖🔥</p></h1></br>
-<a href="https://github.com/UG-SEP/Tic-Tac-Toe-AI-Intergrated">See the AI Version😲😲</a>
+<a href="https://github.com/UG-SEP/Tic-Tac-Toe-AI-Intergrated">See the AI Version😲😲</a></br>
 <a href="https://www.linkedin.com/in/ujjwal-gupta-ug-233543202/">Connect With me🤝🤝</a></br>
 <a href="https://www.youtube.com/watch?v=27d8jxj-aNw">Video Link⌚⌚</a></br>
 <a href="https://www.codeblocks.org/downloads/binaries/">Dowload CodeBlocks💻💻</a>
