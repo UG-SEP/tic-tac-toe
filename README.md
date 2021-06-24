@@ -4,7 +4,7 @@
 ![](https://img.shields.io/badge/Status-Beta-green.svg)
 ![](https://img.shields.io/badge/Version-CodeBlocks_13.12-red.svg)
 <h1><p align="center">🅾❌Tic Tac Toe❌🅾</p></h1>
-<h2> <p align="center">💡_This is my new project Tic Tic Toe_💡</p></h2>
+<h2> <p align="center">💡 <i>This is my new project Tic Tic Toe</i> 💡</p></h2>
 <h2>What new??</h2>
 <h3> 1. Fixed Few Bugs.</br>
      2. GUI type mode.</h3>
