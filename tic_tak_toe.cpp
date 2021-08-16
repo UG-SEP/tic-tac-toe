@@ -1,4 +1,5 @@
- #include<stdio.h>
+// Copyright (c) by Ujjwal Gupta (@UG-SEP)
+#include<stdio.h>
 #include<graphics.h>
 int check_rep(POINT *cursorpos,int *arr,int flag);
 void display_game(POINT *cursor_pos);
